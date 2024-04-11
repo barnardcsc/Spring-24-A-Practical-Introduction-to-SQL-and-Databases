@@ -261,7 +261,7 @@ By dividing data into separate tables and establishing relationships between the
 
 **Instructions:**
 
-1. **Analyze the Unnormalized Data**
+1. **Analyze the Denormalized Data**
    - Open the downloaded workbook.
    - Observe the data structure in its original form.
    - Ask yourself: What inefficiencies or redundancies do you notice? How might you reorganize the data more logically?
