@@ -11,11 +11,11 @@ In this workshop, we'll cover the essentials of working with relational database
 
 ### PostgreSQL
 
-There are many types of SQL databases available, such as Microsoft SQL Server, MySQL, Oracle, and SQLite. We'll use PostgreSQL, a powerful, open-source SQL database, for this workshop. The SQL concepts and skills you'll learn apply to other popular databases like Microsoft SQL Server, MySQL, Oracle, and SQLite, as the core principles remain consistent across different implementations.
+There are many types of SQL databases available, such as Microsoft SQL Server, MySQL, Oracle, and SQLite. We'll use PostgreSQL, a powerful, open-source database, for this workshop. The concepts and skills you'll learn apply to other databases because the core principles remain consistent across different SQL implementations.
 
 ### Prerequisites
 
-To make things easier, we'll access PostgreSQL through Supabase, a cloud database provider with a free plan. Supabase has a built-in editor and admin interface, so you don't need to download any extra software. Usually, you'd use a tool like DBeaver to interact with a database, but Supabase lets you write queries and manage your database right in their web-based platform.
+To make things easier, we'll access PostgreSQL through Supabase, a cloud database provider with a free plan. Supabase has a built-in editor and admin interface, so you don't need to download any extra software. Usually, you'd use a tool like DBeaver to interact with a database, but Supabase lets you write queries and manage your database inside of their web-based platform.
 
 1. Create an account at [Supabase](https://supabase.com/dashboard/sign-up).
     1. Click `+ New Project`
@@ -25,7 +25,6 @@ To make things easier, we'll access PostgreSQL through Supabase, a cloud databas
     3. Select a region (East US)
     4. Create and allow a couple of minutes for setup.
 2. [Download Github repository ](https://github.com/barnardcsc/Spring-24-A-Practical-Introduction-to-SQL-and-Databases)
-
 
 ### Optional: Alternative Vendors
 
@@ -52,9 +51,7 @@ If you choose to host PostgreSQL yourself or use a different cloud vendor, you'l
   - Postico (Discount for students, Mac only)
   - TablePlus (Preferred tool, discounted for students)
 
-
 _Note: We cannot provide installation, troubleshooting, or support for any of these software._
-
 
 ### External Links & Resources
 
