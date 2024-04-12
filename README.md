@@ -20,8 +20,8 @@ To make things easier, we'll access PostgreSQL through Supabase, a cloud databas
 1. Create an account at [Supabase](https://supabase.com/dashboard/sign-up).
     1. Click `+ New Project`
     2. Fill out the `Name` & `Password` fields:
-      - **Name**: `csc-workshop`
-      - **Password**: Generated random
+        - **Name**: `csc-workshop`
+        - **Password**: Generated random
     3. Select a region (East US)
     4. Create and allow a couple of minutes for setup.
 2. [Download Github repository ](https://github.com/barnardcsc/Spring-24-A-Practical-Introduction-to-SQL-and-Databases)
