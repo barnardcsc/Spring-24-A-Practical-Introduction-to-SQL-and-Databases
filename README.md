@@ -93,7 +93,7 @@ Why would use a dedicated SQL database like PostgreSQL instead of an Excel sprea
 
 #### 1.1 Basic Operations
 
-Using the toolbar on the left side, navigate to the **SQL Editor** and run (⌘ + Return) the following commands. 
+After you have created a project in Supabase, use the toolbar on the left side to navigate to the **SQL Editor** and run (⌘ + Return) the following commands. 
 
 **Create table**
 
